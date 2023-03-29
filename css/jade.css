@@ -1,12 +1,12 @@
 body {
     margin: 0;
-    background-color: hsl(0, 0%, 100%);
-    color: hsl(0, 0%, 10%);
+    background-color: pink;
+    color: #83a652;
     line-height: 1.5;
   }
   
   .content-width {
-    max-width: 70ch;
+    max-width: 100ch;
     width: calc(100% - 4rem);
     margin: 0 auto;
   }
@@ -18,13 +18,13 @@ body {
   header {
     margin-bottom: 4rem;
     padding: 2rem 0;
-    background-color: #B2AC88;
-    border-bottom: 4px dashed gray;
-    color: hsl(300, 50%, 90%);
+    background-color: #83a652;
+    border-bottom: 4px dashed rgb(200, 193, 193);
+    color: black;
   }
   
   header p {
-    color: hsl(300, 50%, 85%);
+    color: black;
   }
   
   h1 {
@@ -40,6 +40,6 @@ body {
   
   h2,
   h3 {
-    color: hsl(280, 50%, 40%);
+    color: rgb(34, 34, 86);
   }
   
