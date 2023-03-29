@@ -21,7 +21,7 @@ Using that basic web page as starter code, create your own simple web page using
    1. Change the font-size of the paragraphs.
    1. Play with the current width and margin settings one at a time to see how they impact the web page.
 1. Remember to be saving and committing your work frequently.
-1. At the end, make a MR and add yourself to the Contributors list.
+1. At the end, make a MR.
 
 # Contributors
 
