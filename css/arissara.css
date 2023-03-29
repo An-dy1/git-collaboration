@@ -1,6 +1,6 @@
 body {
     margin: 0;
-    background-color: hsl(0, 0%, 100%);
+    background-color: hsl(189, 44%, 23%);
     color: hsl(0, 0%, 10%);
     line-height: 1.5;
   }
@@ -18,7 +18,7 @@ body {
   header {
     margin-bottom: 4rem;
     padding: 2rem 0;
-    background-color: hsl(280, 56%, 29%);
+    background-color: hsl(109, 46%, 49%);
     border-bottom: 4px solid hsl(300, 50%, 50%);
     color: hsl(300, 50%, 90%);
   }
@@ -40,6 +40,6 @@ body {
   
   h2,
   h3 {
-    color: hsl(280, 50%, 40%);
+    color: green(280, 50%, 40%);
   }
   
