@@ -10,6 +10,10 @@ body {
     width: calc(100% - 4rem);
     margin: 0 auto;
   }
+
+  .content-width h1 {
+    font-family: 'Alkatra', cursive;
+  }
   
   main {
     margin-bottom: 4rem;
@@ -18,9 +22,9 @@ body {
   header {
     margin-bottom: 4rem;
     padding: 2rem 0;
-    background-color: hsl(280, 56%, 29%);
-    border-bottom: 4px solid hsl(300, 50%, 50%);
-    color: hsl(300, 50%, 90%);
+    background-color: #fa0a28;
+    border-bottom: 4px solid rgb(81, 46, 237);
+    color: rgb(196, 197, 192);
   }
   
   header p {
@@ -42,4 +46,11 @@ body {
   h3 {
     color: hsl(280, 50%, 40%);
   }
+
+  p::first-line {
+    font-size: 1.2rem;
+    font-weight: bold;
+    text-decoration: underline;
+}
+
   
