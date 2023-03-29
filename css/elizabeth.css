@@ -1,8 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Heebo&family=Lobster+Two&display=swap');
+
 body {
   margin: 0;
   background-color: hsl(0, 0%, 100%);
   color: hsl(0, 0%, 10%);
   line-height: 1.5;
+  font-family: 'Heebo', sans-serif;
 }
 
 .content-width {
@@ -18,17 +21,19 @@ main {
 header {
   margin-bottom: 4rem;
   padding: 2rem 0;
-  background-color: hsl(280, 56%, 29%);
-  border-bottom: 4px solid hsl(300, 50%, 50%);
-  color: hsl(300, 50%, 90%);
+  background-color: hsla(156, 89%, 25%, 0.653);
+  border-bottom: 4px solid hsl(156, 89%, 25%);
+  color: hsl(180, 36%, 95%);
 }
 
 header p {
-  color: hsl(300, 50%, 85%);
+  color: hsl(180, 36%, 95%);
+  
 }
 
 h1 {
   font-size: 48px;
+  font-family: 'Lobster Two', cursive;
 }
 
 h1,
