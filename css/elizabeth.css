@@ -52,8 +52,10 @@ h3 {
   font-size: 3rem;
   font-weight: 800;
   font-family: 'Lobster Two', cursive;
-  color: hsl(156, 89%, 25%);
+  color: hsl(180, 36%, 95%);
   float: inline-start;
-  margin-right: 5px;
-  margin-top: 0;
+  margin-right: 8px;
+  background-color: hsla(156, 89%, 25%, 0.653);;
+  padding: 0px 5px;
+  border-radius: 3px;
 }
