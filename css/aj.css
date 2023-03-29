@@ -1,7 +1,7 @@
 body {
     margin: 0;
-    background-color: hsl(0, 0%, 100%);
-    color: hsl(0, 0%, 10%);
+    background-color: hwb(0 0% 100%);
+    color: hsl(113, 98%, 44%);
     line-height: 1.5;
   }
   
@@ -18,9 +18,10 @@ body {
   header {
     margin-bottom: 4rem;
     padding: 2rem 0;
-    background-color: hsl(280, 56%, 29%);
+    background-color: hsl(0, 0%, 0%);
     border-bottom: 4px solid hsl(300, 50%, 50%);
-    color: hsl(300, 50%, 90%);
+    color: hsl(113, 98%, 44%);
+    
   }
   
   header p {
