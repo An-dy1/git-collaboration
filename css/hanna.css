@@ -3,7 +3,11 @@ body {
   background-color: hsl(0, 100%, 98%);
   color: hsl(0, 0%, 10%);
   line-height: 1.5;
-  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-family: Helvetica, "Lora", sans-serif;
+}
+
+p {
+  font-weight: 600;
 }
 
 .content-width {
@@ -20,8 +24,7 @@ header {
   margin-bottom: 4rem;
   padding: 2rem 0;
   background-color: hsl(107, 6%, 43%);
-  border-bottom: 4px solid hsl(0, 55%, 42%);
-
+  border-bottom: 4px solid hsl(350, 81%, 55%);
   color: hsl(343, 100%, 91%);
 }
 
@@ -39,5 +42,5 @@ h3 {
 
 h2,
 h3 {
-  color: hsl(0, 55%, 42%);
+  color: hsl(350, 81%, 55%);
 }
