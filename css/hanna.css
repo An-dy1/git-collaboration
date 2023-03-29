@@ -1,0 +1,43 @@
+body {
+  margin: 0;
+  background-color: hsl(0, 100%, 98%);
+  color: hsl(0, 0%, 10%);
+  line-height: 1.5;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.content-width {
+  max-width: 70ch;
+  width: calc(100% - 4rem);
+  margin: 0 auto;
+}
+
+main {
+  margin-bottom: 4rem;
+}
+
+header {
+  margin-bottom: 4rem;
+  padding: 2rem 0;
+  background-color: hsl(107, 6%, 43%);
+  border-bottom: 4px solid hsl(0, 55%, 42%);
+
+  color: hsl(343, 100%, 91%);
+}
+
+h1 {
+  font-size: 48px;
+}
+
+h1,
+h2,
+h3 {
+  margin: 0;
+  line-height: 1.25;
+  font-family: inherit;
+}
+
+h2,
+h3 {
+  color: hsl(0, 55%, 42%);
+}
