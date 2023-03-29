@@ -18,8 +18,8 @@ body {
   header {
     margin-bottom: 4rem;
     padding: 2rem 0;
-    background-color: hsl(280, 56%, 29%);
-    border-bottom: 4px solid hsl(300, 50%, 50%);
+    background-color: "sage green";
+    border-bottom: 4px dashed "gray";
     color: hsl(300, 50%, 90%);
   }
   
