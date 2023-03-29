@@ -1,6 +1,6 @@
 body {
   margin: 0;
-  background-color: hsl(0, 0%, 100%);
+  background-color: hsl(99, 67%, 87%);
   color: hsl(0, 0%, 10%);
   line-height: 1.5;
 }
@@ -18,8 +18,8 @@ main {
 header {
   margin-bottom: 4rem;
   padding: 2rem 0;
-  background-color: hsl(280, 56%, 29%);
-  border-bottom: 4px solid hsl(300, 50%, 50%);
+  background-color: hsl(155, 55%, 35%);
+  border-bottom: 4px solid hsl(154, 52%, 33%);
   color: hsl(300, 50%, 90%);
 }
 
@@ -40,5 +40,5 @@ h3 {
 
 h2,
 h3 {
-  color: hsl(280, 50%, 40%);
+  color: hsl(89, 59%, 31%);
 }
