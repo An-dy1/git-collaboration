@@ -18,13 +18,13 @@ body {
   header {
     margin-bottom: 4rem;
     padding: 2rem 0;
-    background-color: hsl(280, 56%, 29%);
-    border-bottom: 4px solid hsl(300, 50%, 50%);
-    color: hsl(300, 50%, 90%);
+    background-color: hsl(64, 69%, 70%);
+    border-bottom: 4px solid hsl(191, 66%, 32%);
+    color: hsl(191, 66%, 32%)
   }
   
   header p {
-    color: hsl(300, 50%, 85%);
+    color: hsl(19, 60%, 54%);
   }
   
   h1 {
@@ -40,6 +40,6 @@ body {
   
   h2,
   h3 {
-    color: hsl(280, 50%, 40%);
+    color: hsl(19, 60%, 54%);
   }
   
